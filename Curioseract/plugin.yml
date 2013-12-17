@@ -1,3 +1,6 @@
 name: Curioseract
 main: zapcloud.curioseract.Curioseract
 version: 0.0.0
+worlds:
+  tesseract:
+    generator: Curioseract
